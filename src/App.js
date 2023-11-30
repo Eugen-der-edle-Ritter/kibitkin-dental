@@ -31,6 +31,7 @@ const App = () => {
       <Navbar />
       <Routes>
         <Route
+          index
           exact
           path="/"
           element={
