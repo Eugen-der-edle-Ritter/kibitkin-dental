@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/kibitkin-dental/static/css/main.4461e5d3.css",
+    "main.js": "/kibitkin-dental/static/js/main.76e5327b.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/kibitkin-dental/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/kibitkin-dental/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/kibitkin-dental/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/slide_three.png": "/kibitkin-dental/static/media/slide_three.df0debc263a7350ef8db.png",
+    "static/media/slide_two.png": "/kibitkin-dental/static/media/slide_two.6bfbce36743b15ca056f.png",
+    "static/media/slide_one.png": "/kibitkin-dental/static/media/slide_one.63360e898e9fe98d7d67.png",
+    "static/media/doctor.png": "/kibitkin-dental/static/media/doctor.6b6e60023320d5bb47b8.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/kibitkin-dental/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/kibitkin-dental/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/doctor_jr.png": "/kibitkin-dental/static/media/doctor_jr.87aa99999355294ecdbe.png",
+    "static/media/about_img.webp": "/kibitkin-dental/static/media/about_img.13bb375245f1a0305283.webp",
+    "static/media/logo.png": "/kibitkin-dental/static/media/logo.2efc83f79afd85b3a388.png",
+    "static/media/footer_01.jpg": "/kibitkin-dental/static/media/footer_01.8278da38b973ab9088fa.jpg",
+    "static/media/site_con.jpg": "/kibitkin-dental/static/media/site_con.e7a6921b6a59c7cefc56.jpg",
+    "static/media/appointment_admin_img.png": "/kibitkin-dental/static/media/appointment_admin_img.ead77caea6d44a2ccc4f.png",
+    "index.html": "/kibitkin-dental/index.html",
+    "main.4461e5d3.css.map": "/kibitkin-dental/static/css/main.4461e5d3.css.map",
+    "main.76e5327b.js.map": "/kibitkin-dental/static/js/main.76e5327b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4461e5d3.css",
+    "static/js/main.76e5327b.js"
+  ]
+}
