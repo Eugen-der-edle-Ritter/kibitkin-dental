@@ -29,6 +29,11 @@ const App = () => {
   return (
     <>
       <Navbar />
+      <Home />
+      {/* <ApBooking /> */}
+      <About />
+      <Services />
+      <Contact />
       <Routes>
         <Route
           exact
@@ -43,32 +48,32 @@ const App = () => {
             </>
           }
         />
-        <Route
+        {/* <Route
           exact
           path="/dental-clinic/appointment"
           element={<Appointment />}
-        />
+        /> */}
         {/* <Route exact path="/dental-clinic/treatments" element={} /> */}
         {/* <Route exact path="/dental-clinic/contact" element={} /> */}
-        <Route exact path="/register" element={<Register />} />
+        {/* <Route exact path="/register" element={<Register />} /> */}
         <Route exact path="/dental-clinic/team" element={<Profile />} />
-        <Route exact path="/login_user" element={<Login />} />
-        <Route
+        {/* <Route exact path="/login_user" element={<Login />} /> */}
+        {/* <Route
           exact
           path="/dental-clinic/user/profile"
           element={<UserProfile />}
-        />
-        <Route
+        /> */}
+        {/* <Route
           exact
           path="/dental-clinic/user/chat_section"
           element={<ChatApp />}
-        />
-        <Route exact path="/dental-clinic/slot" element={<BookingHours />} />
+        /> */}
+        {/* <Route exact path="/dental-clinic/slot" element={<BookingHours />} />
         <Route
           exact
           path="/dental-clinic/admin-person"
           element={<Dashboard />}
-        />
+        /> */}
       </Routes>
     </>
   );
