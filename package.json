@@ -2,7 +2,7 @@
   "name": "clinic_website",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://eugen-der-edle-ritter.github.io/kibitkin-dental/",
+  "homepage": ".",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
